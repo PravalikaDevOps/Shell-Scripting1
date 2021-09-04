@@ -3,6 +3,5 @@ echo "Installing Webserver"
 yum install httpd
 echo "Starting the Webserver"
 systemctl start httpd
-echo "I am installing my first project"
+echo "Installing Webserver"
 yum install nginx
-echo "hi"
